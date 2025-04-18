@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public class Vimpire extends Enemy {
 
-public class Vimpire {
+ public void Talk (){
+     System.out.println("I Want Suck Your Blood!!");
+ }
 }
